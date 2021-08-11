@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently the CEO of [Code Inspector](https://www.code-inspedctor.com).
+I am currently the CEO of [Code Inspector](https://www.code-inspector.com).
 
 I code mainly in Scala, Java, Python, and Javascript.
 
