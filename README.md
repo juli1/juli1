@@ -9,6 +9,6 @@ For more information, you can visit my [personal website](https://julien.gunnm.o
 
 #### Code Inspector statistics
 
-<a href="https://frontend.code-inspector.com/public/user/github/juli1">
-   <img src="https://code-inspector.com/public/badge/user/github/juli1" alt="code inspector badge" />
+<a href="https://app.codiga.io/public/user/github/juli1">
+   <img src="https://api.codiga.io/public/badge/user/github/juli1" alt="code inspector badge" />
 </a>
